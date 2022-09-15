@@ -15,7 +15,8 @@ public class Ejercicio1 {
        System.out.println("Agregando Logica");
                
 
-       System.out.println("Agregando Logica");        
+       System.out.println("Agregando Logica");
+       System.out.println("Junior Agrego Algo");
 
    }
     
