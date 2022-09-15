@@ -11,4 +11,5 @@
         <maven.compiler.target>18</maven.compiler.target>
         <exec.mainClass>com.ciclo3.proyectog24.Proyectog24</exec.mainClass>
     </properties>
+    <name>Proyectog24clonado</name>
 </project>
